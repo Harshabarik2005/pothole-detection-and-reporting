@@ -1,0 +1,6 @@
+@"
+train: ./final_dataset/images
+val: ./final_dataset/images   # using same images for val (no split)
+nc: 1
+names: [pothole]
+"@ | Set-Content -Path data.yaml -Encoding UTF8

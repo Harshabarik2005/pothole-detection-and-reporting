@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+venv/
+yolov8env/
+
+# Database
+*.db
+*.sqlite3
+
+# Pothole Project specific
+uploads/
+runs/
+# final_dataset/ # Uncomment if you want to exclude dataset
+# images/
+# labels/
+
+# IDEs
+.vscode/
+.idea/
