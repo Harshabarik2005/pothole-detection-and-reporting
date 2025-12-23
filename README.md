@@ -13,7 +13,7 @@ An intelligent system leveraging YOLOv8 and computer vision to automatically det
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Python, FastAPI, SQLAlchemy
+- **Backend**: Python, Flask, SQLAlchemy
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **AI Model**: YOLOv8 (Ultralytics)
 - **Database**: SQLite (Development), extensible to PostgreSQL
